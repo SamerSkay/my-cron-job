@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# PowerShell
+*.log
+
+# Python (om du använder det senare)
+__pycache__/
+*.pyc
+.venv/
+Spara.
+Commit:
+git add .gitignore
+git commit -m "Add .gitignore"
+git push
