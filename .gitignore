@@ -9,8 +9,4 @@ Thumbs.db
 __pycache__/
 *.pyc
 .venv/
-Spara.
-Commit:
-git add .gitignore
-git commit -m "Add .gitignore"
-git push
+run.log
